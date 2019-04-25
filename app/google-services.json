@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "293590425834",
+    "firebase_url": "https://chatappdemo1-ba1e7.firebaseio.com",
+    "project_id": "chatappdemo1-ba1e7",
+    "storage_bucket": "chatappdemo1-ba1e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293590425834:android:f5ed65507f9b0a70",
+        "android_client_info": {
+          "package_name": "com.example.tonu.chatappdemo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293590425834-8v7flnup61e9rdm5nubkfq7f0dv89548.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tonu.chatappdemo1",
+            "certificate_hash": "8af05185986c7b73eee26f63f117c3c5c785a97b"
+          }
+        },
+        {
+          "client_id": "293590425834-5q2t54iojvr53lprt8t2oe43bqpvekvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDFWfblWNlhmgZLyNEvcJp4OKp1rEu-OQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293590425834-5q2t54iojvr53lprt8t2oe43bqpvekvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
